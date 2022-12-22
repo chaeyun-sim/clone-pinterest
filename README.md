@@ -1,2 +1,2 @@
 # clone-pinterest
-Clone Pinterest with Djsngo
+Pinterest Clone Coding Project with Django
